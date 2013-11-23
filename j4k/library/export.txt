@@ -1,0 +1,2 @@
+applet=j4k.jar,ufdw.jar,ufdw_j4k.dll
+application=j4k.jar,ufdw.jar,ufdw_j4k.dll
